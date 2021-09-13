@@ -1,4 +1,4 @@
-from clase_maquina_tragamonedas import maquina
+from clase_maquina_tragamonedas import maquina # esto es un comentario de prueba para Git
 
 saldo_jugador=int(input("Ingrese su saldo inicial:"))
 jugador_1=maquina(saldo_jugador)
